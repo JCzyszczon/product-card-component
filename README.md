@@ -1,26 +1,79 @@
-# Frontend Mentor - Product preview card component solution
+<div align="center">
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+# Frontend Mentor - Product preview card component
 
-For Desktop:
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![image](./design/desktop-design.jpg)
+[Solution][solution-url] . [Live Page][live-page]
 
-For Mobile:
+</div>
 
-![image](./design/mobile-design.jpg)
-# My Solution
+<details>
+<summary>Table of contents</summary>
 
-The main task is to reproduce a given project as accurately as possible.
+-   [Overview](#overview)
+    -   [The challenge](#the-challenge)
+    -   [Screenshots](#screenshots)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [Useful resources](#useful-resources)
+-   [Author](#author)
 
-For Desktop: 
+</details>
 
-![image](./screens/desktop-screen.png)
+## Overview
 
-For Mobile:
+### The challenge
 
-![image](./screens/mobile-screen.png)
+Users should be able to:
 
-# Notes
+-   View the optimal layout depending on their device's screen size
+-   See hover and focus states for interactive elements
 
-You can check my frontendmentor profile [here](https://www.frontendmentor.io/profile/JCzyszczon)
+### Screenshots
+
+<table>
+        <tr>
+            <td>
+                <img src="./screens/desktop-screen.png"
+                    alt="Desktop solution" width="100%" title="Desktop solution"/>
+            </td>
+            <td>
+                <img src="./screens/mobile-screen.png"
+                    alt="Mobile solution" title="Mobile solution" width="100%" />
+            </td>
+        </tr>
+</table>
+
+### Links
+
+-   [Solution][solution-url]
+-   [Live Page][live-page]
+
+## My process
+
+### Built with
+
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Useful resources
+
+-   [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+-   [Flex](https://www.w3schools.com/css/css3_flexbox.asp)
+-   [Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Author
+
+-   Frontend Mentor - [link](https://www.frontendmentor.io/profile/JCzyszczon)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+[live-page]: https://jczyszczon.github.io/product-card-component/
+[solution-url]: https://www.frontendmentor.io/solutions/responsive-product-card-component-with-html-and-css-vTuMY3JvA2
