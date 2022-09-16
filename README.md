@@ -75,5 +75,5 @@ Users should be able to:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[live-page]: https://jczyszczon.github.io/3-column-preview-card/
+[live-page]: https://jczyszczon.github.io/product-card-component/
 [solution-url]: https://www.frontendmentor.io/solutions/responsive-product-card-component-with-html-and-css-vTuMY3JvA2
