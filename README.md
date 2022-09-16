@@ -65,7 +65,7 @@ Users should be able to:
 
 -   [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 -   [Flex](https://www.w3schools.com/css/css3_flexbox.asp)
--   [Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+-   [Box-shadow](https://stackoverflow.com/questions/32571296/how-to-prevent-adjoining-elements-from-moving-when-increasing-border-width)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -75,5 +75,5 @@ Users should be able to:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[live-page]: https://jczyszczon.github.io/product-card-component/
+[live-page]: https://jczyszczon.github.io/3-column-preview-card/
 [solution-url]: https://www.frontendmentor.io/solutions/responsive-product-card-component-with-html-and-css-vTuMY3JvA2
